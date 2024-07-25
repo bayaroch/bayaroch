@@ -1,30 +1,3 @@
-Hi there, I'm Och 👋 I'm a Software Engineer based in Mongolia, passionate about creating solutions that automate and solve real-world problems. As a front-end heavy full-stack developer, I specialize in React and have a strong focus on building intuitive and responsive user interfaces. I love learning new technologies and continuously expanding my skill set to stay at the forefront of web development.\
-
-**🏁 Skills and Experiences**\
-
- - Experience: 10+ years.
-
-
-**🧠 Currently Learning**\
-AWS and Cloud Architectures and NestJS\
-**⚡ Recently Learnt**\
-AWS IVS\
-📬 **Contact Me**\
-bayaroch@gmail.com\
-**🎉 Hobby**\
-I love Gaming and IPSC Action Air shooting\
-Also car detailing \
-**💼 Currently Working With**\
-Unimedia Solutions LLC (fulltime Onsite & Remote)\
-**⏳ Previously Worked With**\
-APIP (Onsite)\
-Mugenlink (Onsite)\
-
-
-
-
-
-
 # 👋 Hi, I'm Bayaroch Samdan
 
 📍 Ulan Bator, Mongolia | 📞 97696707088 | 📧 bayaroch@gmail.com
