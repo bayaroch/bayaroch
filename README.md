@@ -4,16 +4,13 @@
 
 ## 🚀 Summary
 
-Dynamic and versatile Full Stack Developer with a strong focus on front-end technologies, particularly the React ecosystem. Passionate about creating responsive, user-friendly web applications with a keen eye for design and UX principles.
+Dynamic and versatile Full Stack Developer with a strong focus on front-end technologies, particularly the React ecosystem. Passionate about creating responsive, user-friendly web applications with a keen eye for design and UX principles. 
 
-### 💪 Key Strengths
+Expert in React and its associated libraries, proficient in HTML5, CSS3, and modern JavaScript. Experienced in building full-stack applications using Node.js, PHP, and NestJS. Skilled in designing and implementing responsive, intuitive user interfaces. Committed to following best practices and design principles. Capable of managing infrastructure using AWS and DigitalOcean.
 
-- Expert in React and its associated libraries
-- Proficient in HTML5, CSS3, and modern JavaScript
-- Experienced in building full-stack applications using Node.js, PHP, and NestJS
-- Skilled in designing and implementing responsive, intuitive user interfaces
-- Committed to following best practices and design principles
-- Capable of managing infrastructure using AWS and DigitalOcean
+As a Senior Developer, successfully led the implementation of complex features such as real-time chat systems, live streaming functionality, and performance optimization for large-scale applications. Demonstrates strong problem-solving skills and the ability to manage intricate state management scenarios. 
+
+While primarily specializing in front-end development, possesses solid back-end skills to independently develop and deploy mid to low-complexity applications. A dedicated professional with a perfectionist approach, always striving for clean, efficient, and maintainable code.
 
 ## 🛠 Skills
 
